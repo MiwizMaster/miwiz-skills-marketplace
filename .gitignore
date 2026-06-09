@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# lesson working files (per-topic outputs, not part of the skill)
+perm_cache.json
+state.json
+chunks/
+*_dialogue.mp3

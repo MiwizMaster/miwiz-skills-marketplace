@@ -1,0 +1,19 @@
+{
+  "name": "miwiz-skills",
+  "owner": {
+    "name": "Miwiz",
+    "email": "ctechclaude@gmail.com"
+  },
+  "metadata": {
+    "description": "Miwiz English-learning skills for Claude — flashcards & audio automation.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "miwiz-active5",
+      "source": "./plugins/miwiz-active5",
+      "description": "Biến 1 đoạn hội thoại tiếng Anh thành 5 bộ flashcard Miwiz Active 5 + 1 file audio hội thoại 2 giọng, tự đẩy lên app Miwiz.",
+      "version": "1.0.0"
+    }
+  ]
+}
