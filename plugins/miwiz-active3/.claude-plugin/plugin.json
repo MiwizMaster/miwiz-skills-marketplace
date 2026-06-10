@@ -1,0 +1,10 @@
+{
+  "name": "miwiz-active3",
+  "description": "Biến 1 bài đọc văn xuôi tiếng Anh ngắn thành 3 bộ flashcard Miwiz Active 3 (Active 1 MCQ type 2, Active 2 nghe & điền cụm từ type 3, Active 3 dịch Việt→Anh type 7) + 1 mp3 đọc cả bài + 1 mp3 shadowing 10 câu; audio host vĩnh viễn trên GCS, tự đẩy lên app Miwiz qua API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Miwiz",
+    "email": "ctechclaude@gmail.com"
+  },
+  "keywords": ["miwiz", "flashcard", "english", "active3", "reading", "tts", "audio", "shadowing"]
+}
