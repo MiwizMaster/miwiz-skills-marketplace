@@ -14,6 +14,12 @@
       "source": "./plugins/miwiz-active5",
       "description": "Biến 1 đoạn hội thoại tiếng Anh thành 5 bộ flashcard Miwiz Active 5 + 1 file audio hội thoại 2 giọng, tự đẩy lên app Miwiz.",
       "version": "1.0.0"
-    }
+    },
+{
+  "name": "miwiz-active3",
+  "source": "./plugins/miwiz-active3",
+  "description": "Biến 1 bài đọc văn xuôi tiếng Anh thành 3 bộ flashcard Miwiz Active 3 (type 2/3/7) + file audio đọc cả bài & shadowing 10 câu, tự đẩy lên app Miwiz.",
+  "version": "1.0.0"
+}
   ]
 }
